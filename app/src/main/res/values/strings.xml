@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Greet</string>
+    <string name="premiun">Premiun</string>
+    <string name="señor">Mr.</string>
+    <string name="señora">Mrs</string>
+    <string name="señorita">Ms</string>
+    <string name="politely">Politely</string>
+    <string name="greet">Greet</string>
 </resources>
